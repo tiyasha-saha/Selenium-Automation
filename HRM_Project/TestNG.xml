@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "HRM_Project">
+	
+	<listeners>
+		<listener class-name="com.hrmproject.utilities.Reporting"></listener>
+	</listeners>
+
+	<test name = "HRM Website Test">
+		
+		<parameter name = "browser" value = "chrome" />
+		<classes>
+		<!--	<class name = "com.hrmproject.testCases.TC_LoginTest_001" /> 
+			<class name = "com.hrmproject.testCases.TC_LoginTest_002" /> 
+			<class name = "com.hrmproject.testCases.TC_SidebarTest_001" /> -->
+			<class name = "com.hrmproject.testCases.TC_AddEmpTest_001" />
+		</classes>
+		
+	</test>
+</suite>

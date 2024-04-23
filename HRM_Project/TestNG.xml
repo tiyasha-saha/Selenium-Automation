@@ -11,9 +11,9 @@
 		
 		<parameter name = "browser" value = "chrome" />
 		<classes>
-		<!--	<class name = "com.hrmproject.testCases.TC_LoginTest_001" /> 
+			<class name = "com.hrmproject.testCases.TC_LoginTest_001" /> 
 			<class name = "com.hrmproject.testCases.TC_LoginTest_002" /> 
-			<class name = "com.hrmproject.testCases.TC_SidebarTest_001" /> -->
+			<class name = "com.hrmproject.testCases.TC_SidebarTest_001" /> 
 			<class name = "com.hrmproject.testCases.TC_AddEmpTest_001" />
 		</classes>
 		

@@ -9,7 +9,7 @@ import com.hrmproject.pageObjects.Add_Employee;
 
 public class TC_AddEmpTest_001 extends BaseClass {
 
-	@Test
+	@Test (priority = 1)
 	public void EmpAddTest() throws IOException, InterruptedException {
 
 		TC_LoginTest_001 tc001 = new TC_LoginTest_001();
@@ -64,11 +64,32 @@ public class TC_AddEmpTest_001 extends BaseClass {
 		logger.info("Message Shown: " + actualText3);
 
 		Thread.sleep(4000);
-		
+
+
+	}
+
+	@Test (priority = 2)
+	public void addedEmployeeDetUpdate() throws InterruptedException 
+	{
+		Add_Employee addemp = new Add_Employee(driver);
+
 		addemp.nationality();
+		//addemp.nationalityParticular("Bruneian");
 		logger.info("Nationality Selected");
+
+		addemp.dobGenerate();
+
+		logger.info("DOB Selected");
+
+		addemp.genderSelect();
+
+		logger.info("Gender Selected");
+
 		Thread.sleep(6000);
 
+		addemp.perDetSave();
+		
+		logger.info("Details Saved!");
 	}
 
 

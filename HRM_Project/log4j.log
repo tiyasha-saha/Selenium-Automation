@@ -1,850 +1,157 @@
-11:32:27.130 [main] INFO  - Loggin In...
-11:32:27.162 [main] INFO  - URL is opened.
-11:32:27.440 [main] INFO  - Login page is visible.
-11:32:27.501 [main] INFO  - Entered Username.
-11:32:27.574 [main] INFO  - Entered Password.
-11:32:28.813 [main] INFO  - Clicked Submit button.
-11:32:29.235 [main] INFO  - Checked if entered Dashboard
-11:32:29.256 [main] INFO  - Dashboard is visible
-11:32:32.080 [main] INFO  - Clicked PIM option from Sidebar
-11:32:32.523 [main] INFO  - Opened PIM
-11:32:33.408 [main] INFO  - Clicked Add Employee option
-11:32:33.817 [main] INFO  - Opened Add Employee
-11:32:33.894 [main] INFO  - Firstname Provided
-11:32:33.960 [main] INFO  - Lastname Provided
-11:32:34.060 [main] INFO  - Employee ID Provided
-11:32:37.100 [main] INFO  - Image Provided
-11:32:42.705 [main] INFO  - Message Shown: Success
+10:33:18.464 [main] INFO  - Loggin In...
+10:33:18.532 [main] INFO  - URL is opened.
+10:33:18.765 [main] INFO  - Login page is visible.
+10:33:18.894 [main] INFO  - Entered Username.
+10:33:19.014 [main] INFO  - Entered Password.
+10:33:19.117 [main] INFO  - Clicked Submit button.
+10:33:20.759 [main] INFO  - Checked if entered Dashboard
+10:33:20.793 [main] INFO  - Dashboard is visible
+10:33:24.028 [main] INFO  - Clicked PIM option from Sidebar
+10:33:24.612 [main] INFO  - Opened PIM
+10:33:25.484 [main] INFO  - Clicked Add Employee option
+10:33:26.051 [main] INFO  - Opened Add Employee
+10:33:26.191 [main] INFO  - Firstname Provided
+10:33:26.299 [main] INFO  - Lastname Provided
+10:33:26.524 [main] INFO  - Employee ID Provided
+10:33:29.659 [main] INFO  - Image Provided
+10:33:34.368 [main] INFO  - Message Shown: Success
 Successfully Saved
-12:59:13.142 [main] INFO  - Loggin In...
-12:59:13.188 [main] INFO  - URL is opened.
-12:59:13.534 [main] INFO  - Login page is visible.
-12:59:13.596 [main] INFO  - Entered Username.
-12:59:13.674 [main] INFO  - Entered Password.
-12:59:13.753 [main] INFO  - Clicked Submit button.
-12:59:15.359 [main] INFO  - Checked if entered Dashboard
-12:59:15.381 [main] INFO  - Dashboard is visible
-12:59:18.301 [main] INFO  - Clicked PIM option from Sidebar
-12:59:18.713 [main] INFO  - Opened PIM
-12:59:19.697 [main] INFO  - Clicked Add Employee option
-12:59:20.081 [main] INFO  - Opened Add Employee
-12:59:20.146 [main] INFO  - Firstname Provided
-12:59:20.219 [main] INFO  - Lastname Provided
-12:59:20.330 [main] INFO  - Employee ID Provided
-12:59:23.382 [main] INFO  - Image Provided
-12:59:28.167 [main] INFO  - Message Shown: Success
+10:33:44.375 [main] INFO  - Nationality Selected
+10:59:56.318 [main] INFO  - Loggin In...
+10:59:56.413 [main] INFO  - URL is opened.
+10:59:56.711 [main] INFO  - Login page is visible.
+10:59:56.847 [main] INFO  - Entered Username.
+10:59:56.996 [main] INFO  - Entered Password.
+10:59:57.101 [main] INFO  - Clicked Submit button.
+10:59:59.088 [main] INFO  - Checked if entered Dashboard
+10:59:59.182 [main] INFO  - Dashboard is visible
+11:00:02.426 [main] INFO  - Clicked PIM option from Sidebar
+11:00:03.043 [main] INFO  - Opened PIM
+11:00:04.061 [main] INFO  - Clicked Add Employee option
+11:00:04.626 [main] INFO  - Opened Add Employee
+11:00:04.759 [main] INFO  - Firstname Provided
+11:00:04.865 [main] INFO  - Lastname Provided
+11:00:05.069 [main] INFO  - Employee ID Provided
+11:00:08.228 [main] INFO  - Image Provided
+11:00:13.331 [main] INFO  - Message Shown: Success
 Successfully Saved
-13:01:38.008 [main] INFO  - Loggin In...
-13:01:38.050 [main] INFO  - URL is opened.
-13:01:38.283 [main] INFO  - Login page is visible.
-13:01:38.358 [main] INFO  - Entered Username.
-13:01:38.437 [main] INFO  - Entered Password.
-13:01:38.505 [main] INFO  - Clicked Submit button.
-13:01:40.027 [main] INFO  - Checked if entered Dashboard
-13:01:40.047 [main] INFO  - Dashboard is visible
-13:01:42.861 [main] INFO  - Clicked PIM option from Sidebar
-13:01:43.265 [main] INFO  - Opened PIM
-13:01:43.862 [main] INFO  - Clicked Add Employee option
-13:01:44.222 [main] INFO  - Opened Add Employee
-13:01:44.279 [main] INFO  - Firstname Provided
-13:01:44.350 [main] INFO  - Lastname Provided
-13:01:44.443 [main] INFO  - Employee ID Provided
-13:01:47.478 [main] INFO  - Image Provided
-13:02:58.762 [main] INFO  - Loggin In...
-13:02:58.792 [main] INFO  - URL is opened.
-13:02:59.029 [main] INFO  - Login page is visible.
-13:02:59.092 [main] INFO  - Entered Username.
-13:02:59.167 [main] INFO  - Entered Password.
-13:02:59.237 [main] INFO  - Clicked Submit button.
-13:03:00.919 [main] INFO  - Checked if entered Dashboard
-13:03:00.943 [main] INFO  - Dashboard is visible
-13:03:03.788 [main] INFO  - Clicked PIM option from Sidebar
-13:03:04.191 [main] INFO  - Opened PIM
-13:03:04.935 [main] INFO  - Clicked Add Employee option
-13:03:05.305 [main] INFO  - Opened Add Employee
-13:03:05.396 [main] INFO  - Firstname Provided
-13:03:05.459 [main] INFO  - Lastname Provided
-13:03:05.545 [main] INFO  - Employee ID Provided
-13:03:08.590 [main] INFO  - Image Provided
-13:03:13.048 [main] INFO  - Message Shown: Success
+11:00:29.021 [main] INFO  - Nationality Selected
+11:27:31.582 [main] INFO  - Loggin In...
+11:27:31.649 [main] INFO  - URL is opened.
+11:27:32.100 [main] INFO  - Login page is visible.
+11:27:32.162 [main] INFO  - Entered Username.
+11:27:32.234 [main] INFO  - Entered Password.
+11:27:32.308 [main] INFO  - Clicked Submit button.
+11:27:34.028 [main] INFO  - Checked if entered Dashboard
+11:27:34.053 [main] INFO  - Dashboard is visible
+11:27:37.044 [main] INFO  - Clicked PIM option from Sidebar
+11:27:37.535 [main] INFO  - Opened PIM
+11:27:38.579 [main] INFO  - Clicked Add Employee option
+11:27:38.962 [main] INFO  - Opened Add Employee
+11:27:39.051 [main] INFO  - Firstname Provided
+11:27:39.124 [main] INFO  - Lastname Provided
+11:27:39.234 [main] INFO  - Employee ID Provided
+11:27:42.297 [main] INFO  - Image Provided
+11:27:46.858 [main] INFO  - Message Shown: Success
 Successfully Saved
-13:08:37.080 [main] INFO  - Loggin In...
-13:08:37.114 [main] INFO  - URL is opened.
-13:08:37.366 [main] INFO  - Login page is visible.
-13:08:37.428 [main] INFO  - Entered Username.
-13:08:37.503 [main] INFO  - Entered Password.
-13:08:37.569 [main] INFO  - Clicked Submit button.
-13:08:39.124 [main] INFO  - Checked if entered Dashboard
-13:08:39.145 [main] INFO  - Dashboard is visible
-13:08:41.969 [main] INFO  - Clicked PIM option from Sidebar
-13:08:42.382 [main] INFO  - Opened PIM
-13:08:43.129 [main] INFO  - Clicked Add Employee option
-13:08:43.500 [main] INFO  - Opened Add Employee
-13:08:43.566 [main] INFO  - Firstname Provided
-13:08:43.633 [main] INFO  - Lastname Provided
-13:08:43.730 [main] INFO  - Employee ID Provided
-13:08:46.783 [main] INFO  - Image Provided
-13:08:52.646 [main] INFO  - Message Shown: Success
+11:27:51.560 [main] INFO  - DOB Selected
+11:34:39.452 [main] INFO  - Loggin In...
+11:34:39.502 [main] INFO  - URL is opened.
+11:34:39.747 [main] INFO  - Login page is visible.
+11:34:39.822 [main] INFO  - Entered Username.
+11:34:39.898 [main] INFO  - Entered Password.
+11:34:39.965 [main] INFO  - Clicked Submit button.
+11:34:41.640 [main] INFO  - Checked if entered Dashboard
+11:34:41.661 [main] INFO  - Dashboard is visible
+11:34:44.606 [main] INFO  - Clicked PIM option from Sidebar
+11:34:45.003 [main] INFO  - Opened PIM
+11:34:45.804 [main] INFO  - Clicked Add Employee option
+11:34:46.188 [main] INFO  - Opened Add Employee
+11:34:46.272 [main] INFO  - Firstname Provided
+11:34:46.335 [main] INFO  - Lastname Provided
+11:34:46.430 [main] INFO  - Employee ID Provided
+11:34:49.463 [main] INFO  - Image Provided
+11:34:53.935 [main] INFO  - Message Shown: Success
 Successfully Saved
-13:15:01.111 [main] INFO  - Loggin In...
-13:15:01.147 [main] INFO  - URL is opened.
-13:15:01.369 [main] INFO  - Login page is visible.
-13:15:01.428 [main] INFO  - Entered Username.
-13:15:01.506 [main] INFO  - Entered Password.
-13:15:01.577 [main] INFO  - Clicked Submit button.
-13:15:03.256 [main] INFO  - Checked if entered Dashboard
-13:15:03.277 [main] INFO  - Dashboard is visible
-13:15:06.528 [main] INFO  - Clicked PIM option from Sidebar
-13:15:07.010 [main] INFO  - Opened PIM
-13:15:08.174 [main] INFO  - Clicked Add Employee option
-13:15:08.673 [main] INFO  - Opened Add Employee
-13:15:08.732 [main] INFO  - Firstname Provided
-13:15:08.798 [main] INFO  - Lastname Provided
-13:15:08.899 [main] INFO  - Employee ID Provided
-13:15:11.996 [main] INFO  - Image Provided
-13:15:16.806 [main] INFO  - Message Shown: Success
+11:34:58.472 [main] INFO  - DOB Selected
+11:44:45.015 [main] INFO  - Loggin In...
+11:44:45.047 [main] INFO  - URL is opened.
+11:44:45.275 [main] INFO  - Login page is visible.
+11:44:45.338 [main] INFO  - Entered Username.
+11:44:45.411 [main] INFO  - Entered Password.
+11:44:45.468 [main] INFO  - Clicked Submit button.
+11:44:47.043 [main] INFO  - Checked if entered Dashboard
+11:44:47.063 [main] INFO  - Dashboard is visible
+11:44:49.923 [main] INFO  - Clicked PIM option from Sidebar
+11:44:50.323 [main] INFO  - Opened PIM
+11:44:51.110 [main] INFO  - Clicked Add Employee option
+11:44:51.496 [main] INFO  - Opened Add Employee
+11:44:51.562 [main] INFO  - Firstname Provided
+11:44:51.638 [main] INFO  - Lastname Provided
+11:44:51.732 [main] INFO  - Employee ID Provided
+11:44:54.820 [main] INFO  - Image Provided
+11:44:59.358 [main] INFO  - Message Shown: Success
 Successfully Saved
-13:17:25.996 [main] INFO  - Loggin In...
-13:17:26.027 [main] INFO  - URL is opened.
-13:17:26.276 [main] INFO  - Login page is visible.
-13:17:26.335 [main] INFO  - Entered Username.
-13:17:26.414 [main] INFO  - Entered Password.
-13:17:26.487 [main] INFO  - Clicked Submit button.
-13:17:28.268 [main] INFO  - Checked if entered Dashboard
-13:17:28.289 [main] INFO  - Dashboard is visible
-13:17:31.597 [main] INFO  - Clicked PIM option from Sidebar
-13:17:32.104 [main] INFO  - Opened PIM
-13:17:33.009 [main] INFO  - Clicked Add Employee option
-13:17:33.379 [main] INFO  - Opened Add Employee
-13:17:33.464 [main] INFO  - Firstname Provided
-13:17:33.539 [main] INFO  - Lastname Provided
-13:17:33.633 [main] INFO  - Employee ID Provided
-13:17:36.671 [main] INFO  - Image Provided
-13:17:42.628 [main] INFO  - Message Shown: Success
+11:45:04.223 [main] INFO  - DOB Selected
+11:47:17.215 [main] INFO  - Loggin In...
+11:47:17.247 [main] INFO  - URL is opened.
+11:47:17.504 [main] INFO  - Login page is visible.
+11:47:17.564 [main] INFO  - Entered Username.
+11:47:17.637 [main] INFO  - Entered Password.
+11:47:17.700 [main] INFO  - Clicked Submit button.
+11:47:19.227 [main] INFO  - Checked if entered Dashboard
+11:47:19.250 [main] INFO  - Dashboard is visible
+11:47:22.153 [main] INFO  - Clicked PIM option from Sidebar
+11:47:22.577 [main] INFO  - Opened PIM
+11:47:23.556 [main] INFO  - Clicked Add Employee option
+11:47:23.980 [main] INFO  - Opened Add Employee
+11:47:24.047 [main] INFO  - Firstname Provided
+11:47:24.108 [main] INFO  - Lastname Provided
+11:47:24.208 [main] INFO  - Employee ID Provided
+11:47:27.268 [main] INFO  - Image Provided
+11:47:31.861 [main] INFO  - Message Shown: Success
 Successfully Saved
-13:35:55.809 [main] INFO  - Loggin In...
-13:35:55.858 [main] INFO  - URL is opened.
-13:35:56.086 [main] INFO  - Login page is visible.
-13:35:56.151 [main] INFO  - Entered Username.
-13:35:56.228 [main] INFO  - Entered Password.
-13:35:56.294 [main] INFO  - Clicked Submit button.
-13:35:57.807 [main] INFO  - Checked if entered Dashboard
-13:35:57.826 [main] INFO  - Dashboard is visible
-13:36:00.817 [main] INFO  - Clicked PIM option from Sidebar
-13:36:01.211 [main] INFO  - Opened PIM
-13:36:01.777 [main] INFO  - Clicked Add Employee option
-13:36:02.131 [main] INFO  - Opened Add Employee
-13:36:02.205 [main] INFO  - Firstname Provided
-13:36:02.275 [main] INFO  - Lastname Provided
-13:36:02.369 [main] INFO  - Employee ID Provided
-13:36:05.419 [main] INFO  - Image Provided
-13:36:10.288 [main] INFO  - Message Shown: Success
+11:47:36.853 [main] INFO  - DOB Selected
+11:47:36.896 [main] INFO  - Gender Selected
+12:29:28.619 [main] INFO  - Loggin In...
+12:29:28.653 [main] INFO  - URL is opened.
+12:29:29.111 [main] INFO  - Login page is visible.
+12:29:29.175 [main] INFO  - Entered Username.
+12:29:29.251 [main] INFO  - Entered Password.
+12:29:29.320 [main] INFO  - Clicked Submit button.
+12:29:30.827 [main] INFO  - Checked if entered Dashboard
+12:29:30.847 [main] INFO  - Dashboard is visible
+12:29:33.792 [main] INFO  - Clicked PIM option from Sidebar
+12:29:34.197 [main] INFO  - Opened PIM
+12:29:35.053 [main] INFO  - Clicked Add Employee option
+12:29:35.422 [main] INFO  - Opened Add Employee
+12:29:35.498 [main] INFO  - Firstname Provided
+12:29:35.567 [main] INFO  - Lastname Provided
+12:29:35.657 [main] INFO  - Employee ID Provided
+12:29:38.769 [main] INFO  - Image Provided
+12:29:43.332 [main] INFO  - Message Shown: Success
 Successfully Saved
-14:32:24.707 [main] INFO  - Loggin In...
-14:32:24.744 [main] INFO  - URL is opened.
-14:32:24.970 [main] INFO  - Login page is visible.
-14:32:25.029 [main] INFO  - Entered Username.
-14:32:25.106 [main] INFO  - Entered Password.
-14:32:25.195 [main] INFO  - Clicked Submit button.
-14:32:26.740 [main] INFO  - Checked if entered Dashboard
-14:32:26.760 [main] INFO  - Dashboard is visible
-14:32:30.009 [main] INFO  - Clicked PIM option from Sidebar
-14:32:30.413 [main] INFO  - Opened PIM
-14:32:31.250 [main] INFO  - Clicked Add Employee option
-14:32:31.707 [main] INFO  - Opened Add Employee
-14:32:31.788 [main] INFO  - Firstname Provided
-14:32:31.856 [main] INFO  - Lastname Provided
-14:32:31.947 [main] INFO  - Employee ID Provided
-14:32:35.023 [main] INFO  - Image Provided
-14:32:39.545 [main] INFO  - Message Shown: Success
+12:29:48.322 [main] INFO  - DOB Selected
+12:29:48.365 [main] INFO  - Gender Selected
+14:34:17.199 [main] INFO  - Loggin In...
+14:34:17.255 [main] INFO  - URL is opened.
+14:34:17.690 [main] INFO  - Login page is visible.
+14:34:17.907 [main] INFO  - Entered Username.
+14:34:18.019 [main] INFO  - Entered Password.
+14:34:18.137 [main] INFO  - Clicked Submit button.
+14:34:20.418 [main] INFO  - Checked if entered Dashboard
+14:34:20.483 [main] INFO  - Dashboard is visible
+14:34:23.730 [main] INFO  - Clicked PIM option from Sidebar
+14:34:24.315 [main] INFO  - Opened PIM
+14:34:25.256 [main] INFO  - Clicked Add Employee option
+14:34:25.747 [main] INFO  - Opened Add Employee
+14:34:25.875 [main] INFO  - Firstname Provided
+14:34:25.990 [main] INFO  - Lastname Provided
+14:34:26.203 [main] INFO  - Employee ID Provided
+14:34:29.350 [main] INFO  - Image Provided
+14:34:34.125 [main] INFO  - Message Shown: Success
 Successfully Saved
-14:32:44.169 [main] INFO  - Nationality Selected
-14:34:58.894 [main] INFO  - Loggin In...
-14:34:58.936 [main] INFO  - URL is opened.
-14:34:59.158 [main] INFO  - Login page is visible.
-14:34:59.240 [main] INFO  - Entered Username.
-14:34:59.324 [main] INFO  - Entered Password.
-14:34:59.385 [main] INFO  - Clicked Submit button.
-14:35:01.083 [main] INFO  - Checked if entered Dashboard
-14:35:01.102 [main] INFO  - Dashboard is visible
-14:35:03.997 [main] INFO  - Clicked PIM option from Sidebar
-14:35:04.499 [main] INFO  - Opened PIM
-14:35:05.325 [main] INFO  - Clicked Add Employee option
-14:35:05.713 [main] INFO  - Opened Add Employee
-14:35:05.798 [main] INFO  - Firstname Provided
-14:35:05.861 [main] INFO  - Lastname Provided
-14:35:05.966 [main] INFO  - Employee ID Provided
-14:35:09.009 [main] INFO  - Image Provided
-14:35:13.807 [main] INFO  - Message Shown: Success
-Successfully Saved
-14:35:18.415 [main] INFO  - Nationality Selected
-14:36:08.894 [main] INFO  - Loggin In...
-14:36:08.926 [main] INFO  - URL is opened.
-14:36:09.170 [main] INFO  - Login page is visible.
-14:36:09.236 [main] INFO  - Entered Username.
-14:36:09.310 [main] INFO  - Entered Password.
-14:36:09.365 [main] INFO  - Clicked Submit button.
-14:36:10.938 [main] INFO  - Checked if entered Dashboard
-14:36:10.962 [main] INFO  - Dashboard is visible
-14:36:13.779 [main] INFO  - Clicked PIM option from Sidebar
-14:36:14.175 [main] INFO  - Opened PIM
-14:36:14.860 [main] INFO  - Clicked Add Employee option
-14:36:15.242 [main] INFO  - Opened Add Employee
-14:36:15.319 [main] INFO  - Firstname Provided
-14:36:15.384 [main] INFO  - Lastname Provided
-14:36:15.485 [main] INFO  - Employee ID Provided
-14:36:18.559 [main] INFO  - Image Provided
-14:36:25.059 [main] INFO  - Message Shown: Success
-Successfully Saved
-14:36:29.883 [main] INFO  - Nationality Selected
-14:43:01.335 [main] INFO  - Loggin In...
-14:43:01.368 [main] INFO  - URL is opened.
-14:43:01.590 [main] INFO  - Login page is visible.
-14:43:01.653 [main] INFO  - Entered Username.
-14:43:01.738 [main] INFO  - Entered Password.
-14:43:01.814 [main] INFO  - Clicked Submit button.
-14:43:03.392 [main] INFO  - Checked if entered Dashboard
-14:43:03.413 [main] INFO  - Dashboard is visible
-14:43:06.301 [main] INFO  - Clicked PIM option from Sidebar
-14:43:06.749 [main] INFO  - Opened PIM
-14:43:07.614 [main] INFO  - Clicked Add Employee option
-14:43:07.995 [main] INFO  - Opened Add Employee
-14:43:08.068 [main] INFO  - Firstname Provided
-14:43:08.143 [main] INFO  - Lastname Provided
-14:43:08.231 [main] INFO  - Employee ID Provided
-14:43:11.281 [main] INFO  - Image Provided
-14:43:16.172 [main] INFO  - Message Shown: Success
-Successfully Saved
-14:45:48.403 [main] INFO  - Loggin In...
-14:45:48.443 [main] INFO  - URL is opened.
-14:45:48.701 [main] INFO  - Login page is visible.
-14:45:48.779 [main] INFO  - Entered Username.
-14:45:48.855 [main] INFO  - Entered Password.
-14:45:48.921 [main] INFO  - Clicked Submit button.
-14:45:50.790 [main] INFO  - Checked if entered Dashboard
-14:45:50.809 [main] INFO  - Dashboard is visible
-14:45:53.645 [main] INFO  - Clicked PIM option from Sidebar
-14:45:54.074 [main] INFO  - Opened PIM
-14:45:54.831 [main] INFO  - Clicked Add Employee option
-14:45:55.187 [main] INFO  - Opened Add Employee
-14:45:55.258 [main] INFO  - Firstname Provided
-14:45:55.322 [main] INFO  - Lastname Provided
-14:45:55.420 [main] INFO  - Employee ID Provided
-14:45:58.483 [main] INFO  - Image Provided
-14:46:03.324 [main] INFO  - Message Shown: Success
-Successfully Saved
-14:47:38.646 [main] INFO  - Loggin In...
-14:47:38.679 [main] INFO  - URL is opened.
-14:47:38.895 [main] INFO  - Login page is visible.
-14:47:38.954 [main] INFO  - Entered Username.
-14:47:39.032 [main] INFO  - Entered Password.
-14:47:39.099 [main] INFO  - Clicked Submit button.
-14:47:40.985 [main] INFO  - Checked if entered Dashboard
-14:47:41.006 [main] INFO  - Dashboard is visible
-14:47:43.956 [main] INFO  - Clicked PIM option from Sidebar
-14:47:44.427 [main] INFO  - Opened PIM
-14:47:45.403 [main] INFO  - Clicked Add Employee option
-14:47:45.772 [main] INFO  - Opened Add Employee
-14:47:45.842 [main] INFO  - Firstname Provided
-14:47:45.911 [main] INFO  - Lastname Provided
-14:47:46.006 [main] INFO  - Employee ID Provided
-14:47:49.059 [main] INFO  - Image Provided
-14:47:53.934 [main] INFO  - Message Shown: Success
-Successfully Saved
-14:53:14.521 [main] INFO  - Loggin In...
-14:53:14.565 [main] INFO  - URL is opened.
-14:53:14.784 [main] INFO  - Login page is visible.
-14:53:14.846 [main] INFO  - Entered Username.
-14:53:14.917 [main] INFO  - Entered Password.
-14:53:14.981 [main] INFO  - Clicked Submit button.
-14:53:16.545 [main] INFO  - Checked if entered Dashboard
-14:53:16.568 [main] INFO  - Dashboard is visible
-14:53:19.379 [main] INFO  - Clicked PIM option from Sidebar
-14:53:19.767 [main] INFO  - Opened PIM
-14:53:20.278 [main] INFO  - Clicked Add Employee option
-14:53:20.654 [main] INFO  - Opened Add Employee
-14:53:20.718 [main] INFO  - Firstname Provided
-14:53:20.787 [main] INFO  - Lastname Provided
-14:53:20.885 [main] INFO  - Employee ID Provided
-14:53:23.931 [main] INFO  - Image Provided
-14:53:29.234 [main] INFO  - Message Shown: Success
-Successfully Saved
-14:55:07.538 [main] INFO  - Loggin In...
-14:55:07.568 [main] INFO  - URL is opened.
-14:55:07.823 [main] INFO  - Login page is visible.
-14:55:07.881 [main] INFO  - Entered Username.
-14:55:07.957 [main] INFO  - Entered Password.
-14:55:08.040 [main] INFO  - Clicked Submit button.
-14:55:10.060 [main] INFO  - Checked if entered Dashboard
-14:55:10.079 [main] INFO  - Dashboard is visible
-14:55:12.972 [main] INFO  - Clicked PIM option from Sidebar
-14:55:13.388 [main] INFO  - Opened PIM
-14:55:14.349 [main] INFO  - Clicked Add Employee option
-14:55:14.717 [main] INFO  - Opened Add Employee
-14:55:14.790 [main] INFO  - Firstname Provided
-14:55:14.853 [main] INFO  - Lastname Provided
-14:55:14.951 [main] INFO  - Employee ID Provided
-14:55:17.991 [main] INFO  - Image Provided
-14:55:22.852 [main] INFO  - Message Shown: Success
-Successfully Saved
-14:56:44.046 [main] INFO  - Loggin In...
-14:56:44.087 [main] INFO  - URL is opened.
-14:56:44.303 [main] INFO  - Login page is visible.
-14:56:44.376 [main] INFO  - Entered Username.
-14:56:44.470 [main] INFO  - Entered Password.
-14:56:44.562 [main] INFO  - Clicked Submit button.
-14:56:46.280 [main] INFO  - Checked if entered Dashboard
-14:56:46.302 [main] INFO  - Dashboard is visible
-14:56:49.103 [main] INFO  - Clicked PIM option from Sidebar
-14:56:49.506 [main] INFO  - Opened PIM
-14:56:50.384 [main] INFO  - Clicked Add Employee option
-14:56:50.742 [main] INFO  - Opened Add Employee
-14:56:50.804 [main] INFO  - Firstname Provided
-14:56:50.875 [main] INFO  - Lastname Provided
-14:56:50.979 [main] INFO  - Employee ID Provided
-14:56:54.021 [main] INFO  - Image Provided
-14:56:58.832 [main] INFO  - Message Shown: Success
-Successfully Saved
-14:57:03.783 [main] INFO  - Nationality Selected
-15:00:38.824 [main] INFO  - Loggin In...
-15:00:38.855 [main] INFO  - URL is opened.
-15:00:39.094 [main] INFO  - Login page is visible.
-15:00:39.158 [main] INFO  - Entered Username.
-15:00:39.231 [main] INFO  - Entered Password.
-15:00:39.292 [main] INFO  - Clicked Submit button.
-15:00:40.927 [main] INFO  - Checked if entered Dashboard
-15:00:40.947 [main] INFO  - Dashboard is visible
-15:00:43.768 [main] INFO  - Clicked PIM option from Sidebar
-15:00:44.143 [main] INFO  - Opened PIM
-15:00:45.094 [main] INFO  - Clicked Add Employee option
-15:00:45.460 [main] INFO  - Opened Add Employee
-15:00:45.529 [main] INFO  - Firstname Provided
-15:00:45.607 [main] INFO  - Lastname Provided
-15:00:45.695 [main] INFO  - Employee ID Provided
-15:00:48.768 [main] INFO  - Image Provided
-15:00:53.577 [main] INFO  - Message Shown: Success
-Successfully Saved
-15:00:58.344 [main] INFO  - Nationality Selected
-15:02:15.964 [main] INFO  - Loggin In...
-15:02:15.995 [main] INFO  - URL is opened.
-15:02:16.212 [main] INFO  - Login page is visible.
-15:02:16.275 [main] INFO  - Entered Username.
-15:02:16.354 [main] INFO  - Entered Password.
-15:02:16.421 [main] INFO  - Clicked Submit button.
-15:02:17.975 [main] INFO  - Checked if entered Dashboard
-15:02:17.997 [main] INFO  - Dashboard is visible
-15:02:20.894 [main] INFO  - Clicked PIM option from Sidebar
-15:02:21.299 [main] INFO  - Opened PIM
-15:02:21.927 [main] INFO  - Clicked Add Employee option
-15:02:22.297 [main] INFO  - Opened Add Employee
-15:02:22.363 [main] INFO  - Firstname Provided
-15:02:22.436 [main] INFO  - Lastname Provided
-15:02:22.531 [main] INFO  - Employee ID Provided
-15:02:25.598 [main] INFO  - Image Provided
-15:02:31.158 [main] INFO  - Message Shown: Success
-Successfully Saved
-15:02:39.510 [main] INFO  - Nationality Selected
-15:09:10.737 [main] INFO  - Loggin In...
-15:09:10.772 [main] INFO  - URL is opened.
-15:09:11.031 [main] INFO  - Login page is visible.
-15:09:11.091 [main] INFO  - Entered Username.
-15:09:11.170 [main] INFO  - Entered Password.
-15:09:11.221 [main] INFO  - Clicked Submit button.
-15:09:12.822 [main] INFO  - Checked if entered Dashboard
-15:09:12.844 [main] INFO  - Dashboard is visible
-15:09:16.000 [main] INFO  - Clicked PIM option from Sidebar
-15:09:16.442 [main] INFO  - Opened PIM
-15:09:17.352 [main] INFO  - Clicked Add Employee option
-15:09:17.801 [main] INFO  - Opened Add Employee
-15:09:17.885 [main] INFO  - Firstname Provided
-15:09:17.945 [main] INFO  - Lastname Provided
-15:09:18.035 [main] INFO  - Employee ID Provided
-15:09:21.081 [main] INFO  - Image Provided
-15:09:25.954 [main] INFO  - Message Shown: Success
-Successfully Saved
-15:12:14.728 [main] INFO  - Loggin In...
-15:12:14.759 [main] INFO  - URL is opened.
-15:12:15.059 [main] INFO  - Login page is visible.
-15:12:15.118 [main] INFO  - Entered Username.
-15:12:15.195 [main] INFO  - Entered Password.
-15:12:15.265 [main] INFO  - Clicked Submit button.
-15:12:16.934 [main] INFO  - Checked if entered Dashboard
-15:12:16.954 [main] INFO  - Dashboard is visible
-15:12:19.839 [main] INFO  - Clicked PIM option from Sidebar
-15:12:20.249 [main] INFO  - Opened PIM
-15:12:21.066 [main] INFO  - Clicked Add Employee option
-15:12:21.513 [main] INFO  - Opened Add Employee
-15:12:21.581 [main] INFO  - Firstname Provided
-15:12:21.643 [main] INFO  - Lastname Provided
-15:12:21.735 [main] INFO  - Employee ID Provided
-15:12:24.785 [main] INFO  - Image Provided
-15:12:29.581 [main] INFO  - Message Shown: Success
-Successfully Saved
-15:12:38.352 [main] INFO  - Nationality Selected
-15:17:52.784 [main] INFO  - Loggin In...
-15:17:52.822 [main] INFO  - URL is opened.
-15:17:53.028 [main] INFO  - Login page is visible.
-15:17:53.093 [main] INFO  - Entered Username.
-15:17:53.169 [main] INFO  - Entered Password.
-15:17:53.225 [main] INFO  - Clicked Submit button.
-15:17:54.886 [main] INFO  - Checked if entered Dashboard
-15:17:54.906 [main] INFO  - Dashboard is visible
-15:17:57.733 [main] INFO  - Clicked PIM option from Sidebar
-15:17:58.127 [main] INFO  - Opened PIM
-15:17:58.915 [main] INFO  - Clicked Add Employee option
-15:17:59.298 [main] INFO  - Opened Add Employee
-15:17:59.362 [main] INFO  - Firstname Provided
-15:17:59.443 [main] INFO  - Lastname Provided
-15:17:59.534 [main] INFO  - Employee ID Provided
-15:18:02.578 [main] INFO  - Image Provided
-15:18:07.571 [main] INFO  - Message Shown: Success
-Successfully Saved
-15:20:21.386 [main] INFO  - Loggin In...
-15:20:21.420 [main] INFO  - URL is opened.
-15:20:21.650 [main] INFO  - Login page is visible.
-15:20:21.711 [main] INFO  - Entered Username.
-15:20:21.788 [main] INFO  - Entered Password.
-15:20:21.847 [main] INFO  - Clicked Submit button.
-15:20:23.438 [main] INFO  - Checked if entered Dashboard
-15:20:23.463 [main] INFO  - Dashboard is visible
-15:20:26.370 [main] INFO  - Clicked PIM option from Sidebar
-15:20:26.835 [main] INFO  - Opened PIM
-15:20:27.571 [main] INFO  - Clicked Add Employee option
-15:20:28.008 [main] INFO  - Opened Add Employee
-15:20:28.071 [main] INFO  - Firstname Provided
-15:20:28.135 [main] INFO  - Lastname Provided
-15:20:28.228 [main] INFO  - Employee ID Provided
-15:20:31.264 [main] INFO  - Image Provided
-15:20:36.652 [main] INFO  - Message Shown: Success
-Successfully Saved
-15:22:12.273 [main] INFO  - Loggin In...
-15:22:12.318 [main] INFO  - URL is opened.
-15:22:12.545 [main] INFO  - Login page is visible.
-15:22:12.606 [main] INFO  - Entered Username.
-15:22:12.684 [main] INFO  - Entered Password.
-15:22:12.737 [main] INFO  - Clicked Submit button.
-15:22:14.427 [main] INFO  - Checked if entered Dashboard
-15:22:14.447 [main] INFO  - Dashboard is visible
-15:22:17.288 [main] INFO  - Clicked PIM option from Sidebar
-15:22:17.785 [main] INFO  - Opened PIM
-15:22:18.520 [main] INFO  - Clicked Add Employee option
-15:22:18.953 [main] INFO  - Opened Add Employee
-15:22:19.030 [main] INFO  - Firstname Provided
-15:22:19.091 [main] INFO  - Lastname Provided
-15:22:19.180 [main] INFO  - Employee ID Provided
-15:22:22.221 [main] INFO  - Image Provided
-15:22:27.028 [main] INFO  - Message Shown: Success
-Successfully Saved
-15:42:47.568 [main] INFO  - Loggin In...
-15:42:47.610 [main] INFO  - URL is opened.
-15:42:47.851 [main] INFO  - Login page is visible.
-15:42:47.925 [main] INFO  - Entered Username.
-15:42:48.001 [main] INFO  - Entered Password.
-15:42:49.295 [main] INFO  - Clicked Submit button.
-15:42:49.814 [main] INFO  - Checked if entered Dashboard
-15:42:49.836 [main] INFO  - Dashboard is visible
-15:42:52.713 [main] INFO  - Clicked PIM option from Sidebar
-15:42:53.129 [main] INFO  - Opened PIM
-15:42:53.924 [main] INFO  - Clicked Add Employee option
-15:42:54.375 [main] INFO  - Opened Add Employee
-15:42:54.443 [main] INFO  - Firstname Provided
-15:42:54.506 [main] INFO  - Lastname Provided
-15:42:54.602 [main] INFO  - Employee ID Provided
-15:42:57.661 [main] INFO  - Image Provided
-15:43:02.150 [main] INFO  - Message Shown: Success
-Successfully Saved
-15:46:17.610 [main] INFO  - Loggin In...
-15:46:17.638 [main] INFO  - URL is opened.
-15:46:17.863 [main] INFO  - Login page is visible.
-15:46:17.923 [main] INFO  - Entered Username.
-15:46:17.995 [main] INFO  - Entered Password.
-15:46:18.053 [main] INFO  - Clicked Submit button.
-15:46:19.641 [main] INFO  - Checked if entered Dashboard
-15:46:19.660 [main] INFO  - Dashboard is visible
-15:46:22.521 [main] INFO  - Clicked PIM option from Sidebar
-15:46:22.933 [main] INFO  - Opened PIM
-15:46:23.934 [main] INFO  - Clicked Add Employee option
-15:46:24.335 [main] INFO  - Opened Add Employee
-15:46:24.403 [main] INFO  - Firstname Provided
-15:46:24.470 [main] INFO  - Lastname Provided
-15:46:24.566 [main] INFO  - Employee ID Provided
-15:46:27.631 [main] INFO  - Image Provided
-15:46:32.167 [main] INFO  - Message Shown: Success
-Successfully Saved
-16:19:21.004 [main] INFO  - Loggin In...
-16:19:21.044 [main] INFO  - URL is opened.
-16:19:21.472 [main] INFO  - Login page is visible.
-16:19:21.533 [main] INFO  - Entered Username.
-16:19:21.603 [main] INFO  - Entered Password.
-16:19:21.666 [main] INFO  - Clicked Submit button.
-16:19:23.316 [main] INFO  - Checked if entered Dashboard
-16:19:23.336 [main] INFO  - Dashboard is visible
-16:19:26.263 [main] INFO  - Clicked PIM option from Sidebar
-16:19:26.675 [main] INFO  - Opened PIM
-16:19:27.369 [main] INFO  - Clicked Add Employee option
-16:19:27.733 [main] INFO  - Opened Add Employee
-16:19:27.803 [main] INFO  - Firstname Provided
-16:19:27.876 [main] INFO  - Lastname Provided
-16:19:27.969 [main] INFO  - Employee ID Provided
-16:19:31.072 [main] INFO  - Image Provided
-16:19:35.958 [main] INFO  - Message Shown: Success
-Successfully Saved
-16:19:39.989 [main] INFO  - Nationality Selected
-16:20:41.893 [main] INFO  - Loggin In...
-16:20:41.922 [main] INFO  - URL is opened.
-16:20:42.189 [main] INFO  - Login page is visible.
-16:20:42.254 [main] INFO  - Entered Username.
-16:20:42.335 [main] INFO  - Entered Password.
-16:20:43.724 [main] INFO  - Clicked Submit button.
-16:20:44.138 [main] INFO  - Checked if entered Dashboard
-16:20:44.158 [main] INFO  - Dashboard is visible
-16:20:47.010 [main] INFO  - Clicked PIM option from Sidebar
-16:20:47.478 [main] INFO  - Opened PIM
-16:20:48.493 [main] INFO  - Clicked Add Employee option
-16:20:48.873 [main] INFO  - Opened Add Employee
-16:20:48.944 [main] INFO  - Firstname Provided
-16:20:49.019 [main] INFO  - Lastname Provided
-16:20:49.109 [main] INFO  - Employee ID Provided
-16:20:52.191 [main] INFO  - Image Provided
-16:20:56.934 [main] INFO  - Message Shown: Success
-Successfully Saved
-16:21:00.961 [main] INFO  - Nationality Selected
-16:24:00.811 [main] INFO  - Loggin In...
-16:24:00.849 [main] INFO  - URL is opened.
-16:24:01.140 [main] INFO  - Login page is visible.
-16:24:01.203 [main] INFO  - Entered Username.
-16:24:01.283 [main] INFO  - Entered Password.
-16:24:01.356 [main] INFO  - Clicked Submit button.
-16:24:02.896 [main] INFO  - Checked if entered Dashboard
-16:24:02.917 [main] INFO  - Dashboard is visible
-16:24:06.030 [main] INFO  - Clicked PIM option from Sidebar
-16:24:06.445 [main] INFO  - Opened PIM
-16:24:07.201 [main] INFO  - Clicked Add Employee option
-16:24:07.614 [main] INFO  - Opened Add Employee
-16:24:07.680 [main] INFO  - Firstname Provided
-16:24:07.751 [main] INFO  - Lastname Provided
-16:24:07.849 [main] INFO  - Employee ID Provided
-16:24:10.885 [main] INFO  - Image Provided
-16:24:15.923 [main] INFO  - Message Shown: Success
-Successfully Saved
-16:24:19.949 [main] INFO  - Nationality Selected
-16:42:23.920 [main] INFO  - Loggin In...
-16:42:23.961 [main] INFO  - URL is opened.
-16:42:24.262 [main] INFO  - Login page is visible.
-16:42:24.325 [main] INFO  - Entered Username.
-16:42:24.405 [main] INFO  - Entered Password.
-16:42:24.479 [main] INFO  - Clicked Submit button.
-16:42:25.999 [main] INFO  - Checked if entered Dashboard
-16:42:26.019 [main] INFO  - Dashboard is visible
-16:42:28.937 [main] INFO  - Clicked PIM option from Sidebar
-16:42:29.707 [main] INFO  - Opened PIM
-16:42:30.530 [main] INFO  - Clicked Add Employee option
-16:42:30.906 [main] INFO  - Opened Add Employee
-16:42:30.963 [main] INFO  - Firstname Provided
-16:42:31.043 [main] INFO  - Lastname Provided
-16:42:31.133 [main] INFO  - Employee ID Provided
-16:42:34.206 [main] INFO  - Image Provided
-16:42:38.829 [main] INFO  - Message Shown: Success
-Successfully Saved
-16:42:42.851 [main] INFO  - Nationality Selected
-16:46:53.110 [main] INFO  - Loggin In...
-16:46:53.170 [main] INFO  - URL is opened.
-16:46:53.382 [main] INFO  - Login page is visible.
-16:46:53.441 [main] INFO  - Entered Username.
-16:46:53.518 [main] INFO  - Entered Password.
-16:46:54.706 [main] INFO  - Clicked Submit button.
-16:46:55.122 [main] INFO  - Checked if entered Dashboard
-16:46:55.145 [main] INFO  - Dashboard is visible
-16:46:58.202 [main] INFO  - Clicked PIM option from Sidebar
-16:46:58.665 [main] INFO  - Opened PIM
-16:46:59.433 [main] INFO  - Clicked Add Employee option
-16:46:59.810 [main] INFO  - Opened Add Employee
-16:46:59.883 [main] INFO  - Firstname Provided
-16:46:59.953 [main] INFO  - Lastname Provided
-16:47:00.068 [main] INFO  - Employee ID Provided
-16:47:03.137 [main] INFO  - Image Provided
-16:47:08.458 [main] INFO  - Message Shown: Success
-Successfully Saved
-16:47:12.472 [main] INFO  - Nationality Selected
-16:48:04.245 [main] INFO  - Loggin In...
-16:48:04.291 [main] INFO  - URL is opened.
-16:48:04.487 [main] INFO  - Login page is visible.
-16:48:04.550 [main] INFO  - Entered Username.
-16:48:04.626 [main] INFO  - Entered Password.
-16:48:04.690 [main] INFO  - Clicked Submit button.
-16:48:06.222 [main] INFO  - Checked if entered Dashboard
-16:48:06.244 [main] INFO  - Dashboard is visible
-16:48:09.176 [main] INFO  - Clicked PIM option from Sidebar
-16:48:09.610 [main] INFO  - Opened PIM
-16:48:10.114 [main] INFO  - Clicked Add Employee option
-16:48:10.599 [main] INFO  - Opened Add Employee
-16:48:10.667 [main] INFO  - Firstname Provided
-16:48:10.736 [main] INFO  - Lastname Provided
-16:48:10.829 [main] INFO  - Employee ID Provided
-16:48:13.899 [main] INFO  - Image Provided
-16:48:18.801 [main] INFO  - Message Shown: Success
-Successfully Saved
-16:48:22.825 [main] INFO  - Nationality Selected
-16:49:23.148 [main] INFO  - Loggin In...
-16:49:23.179 [main] INFO  - URL is opened.
-16:49:23.413 [main] INFO  - Login page is visible.
-16:49:23.477 [main] INFO  - Entered Username.
-16:49:23.549 [main] INFO  - Entered Password.
-16:49:23.610 [main] INFO  - Clicked Submit button.
-16:49:25.113 [main] INFO  - Checked if entered Dashboard
-16:49:25.132 [main] INFO  - Dashboard is visible
-16:49:28.337 [main] INFO  - Clicked PIM option from Sidebar
-16:49:28.875 [main] INFO  - Opened PIM
-16:49:29.644 [main] INFO  - Clicked Add Employee option
-16:49:30.056 [main] INFO  - Opened Add Employee
-16:49:30.121 [main] INFO  - Firstname Provided
-16:49:30.184 [main] INFO  - Lastname Provided
-16:49:30.282 [main] INFO  - Employee ID Provided
-16:49:33.388 [main] INFO  - Image Provided
-16:49:38.253 [main] INFO  - Message Shown: Success
-Successfully Saved
-16:49:48.076 [main] INFO  - Nationality Selected
-16:51:34.053 [main] INFO  - Loggin In...
-16:51:34.088 [main] INFO  - URL is opened.
-16:51:34.329 [main] INFO  - Login page is visible.
-16:51:34.391 [main] INFO  - Entered Username.
-16:51:34.467 [main] INFO  - Entered Password.
-16:51:34.534 [main] INFO  - Clicked Submit button.
-16:51:36.078 [main] INFO  - Checked if entered Dashboard
-16:51:36.100 [main] INFO  - Dashboard is visible
-16:51:39.017 [main] INFO  - Clicked PIM option from Sidebar
-16:51:39.432 [main] INFO  - Opened PIM
-16:51:40.285 [main] INFO  - Clicked Add Employee option
-16:51:40.649 [main] INFO  - Opened Add Employee
-16:51:40.724 [main] INFO  - Firstname Provided
-16:51:40.788 [main] INFO  - Lastname Provided
-16:51:40.881 [main] INFO  - Employee ID Provided
-16:51:43.922 [main] INFO  - Image Provided
-16:51:48.792 [main] INFO  - Message Shown: Success
-Successfully Saved
-17:01:02.344 [main] INFO  - Loggin In...
-17:01:02.375 [main] INFO  - URL is opened.
-17:01:02.616 [main] INFO  - Login page is visible.
-17:01:02.678 [main] INFO  - Entered Username.
-17:01:02.759 [main] INFO  - Entered Password.
-17:01:02.829 [main] INFO  - Clicked Submit button.
-17:01:04.438 [main] INFO  - Checked if entered Dashboard
-17:01:04.458 [main] INFO  - Dashboard is visible
-17:01:07.269 [main] INFO  - Clicked PIM option from Sidebar
-17:01:07.675 [main] INFO  - Opened PIM
-17:01:08.251 [main] INFO  - Clicked Add Employee option
-17:01:08.633 [main] INFO  - Opened Add Employee
-17:01:08.706 [main] INFO  - Firstname Provided
-17:01:08.774 [main] INFO  - Lastname Provided
-17:01:08.863 [main] INFO  - Employee ID Provided
-17:01:11.930 [main] INFO  - Image Provided
-17:01:16.441 [main] INFO  - Message Shown: Success
-Successfully Saved
-17:01:27.211 [main] INFO  - Nationality Selected
-18:17:30.662 [main] INFO  - Loggin In...
-18:17:30.702 [main] INFO  - URL is opened.
-18:17:30.919 [main] INFO  - Login page is visible.
-18:17:30.999 [main] INFO  - Entered Username.
-18:17:31.084 [main] INFO  - Entered Password.
-18:17:31.143 [main] INFO  - Clicked Submit button.
-18:17:32.703 [main] INFO  - Checked if entered Dashboard
-18:17:32.723 [main] INFO  - Dashboard is visible
-18:17:35.553 [main] INFO  - Clicked PIM option from Sidebar
-18:17:35.956 [main] INFO  - Opened PIM
-18:17:36.811 [main] INFO  - Clicked Add Employee option
-18:17:37.170 [main] INFO  - Opened Add Employee
-18:17:37.244 [main] INFO  - Firstname Provided
-18:17:37.313 [main] INFO  - Lastname Provided
-18:17:37.398 [main] INFO  - Employee ID Provided
-18:17:40.491 [main] INFO  - Image Provided
-18:17:45.043 [main] INFO  - Message Shown: Success
-Successfully Saved
-18:17:59.990 [main] INFO  - Nationality Selected
-18:19:19.047 [main] INFO  - Loggin In...
-18:19:19.079 [main] INFO  - URL is opened.
-18:19:19.545 [main] INFO  - Login page is visible.
-18:19:19.608 [main] INFO  - Entered Username.
-18:19:19.685 [main] INFO  - Entered Password.
-18:19:19.743 [main] INFO  - Clicked Submit button.
-18:19:21.297 [main] INFO  - Checked if entered Dashboard
-18:19:21.319 [main] INFO  - Dashboard is visible
-18:19:24.189 [main] INFO  - Clicked PIM option from Sidebar
-18:19:24.580 [main] INFO  - Opened PIM
-18:19:25.262 [main] INFO  - Clicked Add Employee option
-18:19:25.641 [main] INFO  - Opened Add Employee
-18:19:25.719 [main] INFO  - Firstname Provided
-18:19:25.783 [main] INFO  - Lastname Provided
-18:19:25.874 [main] INFO  - Employee ID Provided
-18:19:28.941 [main] INFO  - Image Provided
-18:19:33.993 [main] INFO  - Message Shown: Success
-Successfully Saved
-18:19:48.291 [main] INFO  - Nationality Selected
-18:22:03.137 [main] INFO  - Loggin In...
-18:22:03.169 [main] INFO  - URL is opened.
-18:22:03.404 [main] INFO  - Login page is visible.
-18:22:03.466 [main] INFO  - Entered Username.
-18:22:03.545 [main] INFO  - Entered Password.
-18:22:03.606 [main] INFO  - Clicked Submit button.
-18:22:05.116 [main] INFO  - Checked if entered Dashboard
-18:22:05.135 [main] INFO  - Dashboard is visible
-18:22:07.950 [main] INFO  - Clicked PIM option from Sidebar
-18:22:08.455 [main] INFO  - Opened PIM
-18:22:09.260 [main] INFO  - Clicked Add Employee option
-18:22:09.620 [main] INFO  - Opened Add Employee
-18:22:09.703 [main] INFO  - Firstname Provided
-18:22:09.782 [main] INFO  - Lastname Provided
-18:22:09.870 [main] INFO  - Employee ID Provided
-18:22:12.958 [main] INFO  - Image Provided
-18:22:17.603 [main] INFO  - Message Shown: Success
-Successfully Saved
-18:22:32.473 [main] INFO  - Nationality Selected
-18:35:30.616 [main] INFO  - Loggin In...
-18:35:30.656 [main] INFO  - URL is opened.
-18:35:30.872 [main] INFO  - Login page is visible.
-18:35:30.932 [main] INFO  - Entered Username.
-18:35:31.014 [main] INFO  - Entered Password.
-18:35:31.089 [main] INFO  - Clicked Submit button.
-18:35:32.654 [main] INFO  - Checked if entered Dashboard
-18:35:32.676 [main] INFO  - Dashboard is visible
-18:35:35.562 [main] INFO  - Clicked PIM option from Sidebar
-18:35:35.961 [main] INFO  - Opened PIM
-18:35:36.697 [main] INFO  - Clicked Add Employee option
-18:35:37.060 [main] INFO  - Opened Add Employee
-18:35:37.122 [main] INFO  - Firstname Provided
-18:35:37.190 [main] INFO  - Lastname Provided
-18:35:37.287 [main] INFO  - Employee ID Provided
-18:35:40.365 [main] INFO  - Image Provided
-18:35:44.825 [main] INFO  - Message Shown: Success
-Successfully Saved
-18:35:59.425 [main] INFO  - Nationality Selected
-21:45:41.933 [main] INFO  - Loggin In...
-21:45:42.008 [main] INFO  - URL is opened.
-21:45:43.159 [main] INFO  - Login page is visible.
-21:45:43.319 [main] INFO  - Entered Username.
-21:45:43.489 [main] INFO  - Entered Password.
-21:45:43.612 [main] INFO  - Clicked Submit button.
-21:45:52.666 [main] INFO  - Checked if entered Dashboard
-21:45:52.711 [main] INFO  - Dashboard is visible
-21:46:00.536 [main] INFO  - Clicked PIM option from Sidebar
-21:46:01.233 [main] INFO  - Opened PIM
-21:46:02.425 [main] INFO  - Clicked Add Employee option
-21:46:02.962 [main] INFO  - Opened Add Employee
-21:46:03.095 [main] INFO  - Firstname Provided
-21:46:03.211 [main] INFO  - Lastname Provided
-21:46:03.398 [main] INFO  - Employee ID Provided
-21:46:06.525 [main] INFO  - Image Provided
-21:46:11.254 [main] INFO  - Message Shown: Success
-Successfully Saved
-21:46:26.063 [main] INFO  - Nationality Selected
-22:04:06.690 [main] INFO  - Loggin In...
-22:04:06.745 [main] INFO  - URL is opened.
-22:33:26.804 [main] INFO  - Loggin In...
-22:33:26.862 [main] INFO  - URL is opened.
-22:33:28.930 [main] INFO  - Login page is visible.
-22:33:29.058 [main] INFO  - Entered Username.
-22:33:29.243 [main] INFO  - Entered Password.
-22:33:37.344 [main] INFO  - Clicked Submit button.
-22:33:39.024 [main] INFO  - Checked if entered Dashboard
-22:33:39.076 [main] INFO  - Dashboard is visible
-22:33:45.899 [main] INFO  - Clicked PIM option from Sidebar
-22:33:46.506 [main] INFO  - Opened PIM
-22:33:47.631 [main] INFO  - Clicked Add Employee option
-22:33:48.122 [main] INFO  - Opened Add Employee
-22:33:48.262 [main] INFO  - Firstname Provided
-22:33:48.389 [main] INFO  - Lastname Provided
-22:33:48.558 [main] INFO  - Employee ID Provided
-22:33:51.674 [main] INFO  - Image Provided
-22:33:56.400 [main] INFO  - Message Shown: Success
-Successfully Saved
-22:34:11.911 [main] INFO  - Nationality Selected
-22:50:53.577 [main] INFO  - Loggin In...
-22:50:53.637 [main] INFO  - URL is opened.
-22:50:54.299 [main] INFO  - Login page is visible.
-22:50:54.415 [main] INFO  - Entered Username.
-22:50:54.614 [main] INFO  - Entered Password.
-22:50:54.789 [main] INFO  - Clicked Submit button.
-22:50:57.051 [main] INFO  - Checked if entered Dashboard
-22:50:57.093 [main] INFO  - Dashboard is visible
-22:51:00.163 [main] INFO  - Clicked PIM option from Sidebar
-22:51:00.749 [main] INFO  - Opened PIM
-22:51:01.613 [main] INFO  - Clicked Add Employee option
-22:51:02.159 [main] INFO  - Opened Add Employee
-22:51:02.281 [main] INFO  - Firstname Provided
-22:51:02.395 [main] INFO  - Lastname Provided
-22:51:02.573 [main] INFO  - Employee ID Provided
-22:51:05.704 [main] INFO  - Image Provided
-22:51:14.459 [main] INFO  - Message Shown: Success
-Successfully Saved
-22:51:28.458 [main] INFO  - Nationality Selected
-23:06:14.188 [main] INFO  - Loggin In...
-23:06:14.239 [main] INFO  - URL is opened.
-23:07:42.630 [main] INFO  - Loggin In...
-23:07:42.671 [main] INFO  - URL is opened.
-23:08:52.881 [main] INFO  - Loggin In...
-23:08:52.920 [main] INFO  - URL is opened.
-23:08:55.174 [main] INFO  - Login page is visible.
-23:08:55.311 [main] INFO  - Entered Username.
-23:08:55.984 [main] INFO  - Entered Password.
-23:08:56.100 [main] INFO  - Clicked Submit button.
-23:09:22.624 [main] INFO  - Loggin In...
-23:09:22.674 [main] INFO  - URL is opened.
-23:09:23.605 [main] INFO  - Login page is visible.
-23:09:23.727 [main] INFO  - Entered Username.
-23:09:23.898 [main] INFO  - Entered Password.
-23:09:27.920 [main] INFO  - Clicked Submit button.
-23:09:28.574 [main] INFO  - Checked if entered Dashboard
-23:09:28.618 [main] INFO  - Dashboard is visible
-23:09:31.781 [main] INFO  - Clicked PIM option from Sidebar
-23:09:32.458 [main] INFO  - Opened PIM
-23:09:33.285 [main] INFO  - Clicked Add Employee option
-23:09:33.814 [main] INFO  - Opened Add Employee
-23:09:33.949 [main] INFO  - Firstname Provided
-23:09:34.080 [main] INFO  - Lastname Provided
-23:09:34.246 [main] INFO  - Employee ID Provided
-23:09:37.318 [main] INFO  - Image Provided
-23:09:42.030 [main] INFO  - Message Shown: Success
-Successfully Saved
-23:12:22.238 [main] INFO  - Loggin In...
-23:12:22.286 [main] INFO  - URL is opened.
-23:12:23.496 [main] INFO  - Login page is visible.
-23:12:23.620 [main] INFO  - Entered Username.
-23:12:23.807 [main] INFO  - Entered Password.
-23:12:23.899 [main] INFO  - Clicked Submit button.
-23:12:29.140 [main] INFO  - Checked if entered Dashboard
-23:12:29.182 [main] INFO  - Dashboard is visible
-23:12:33.643 [main] INFO  - Clicked PIM option from Sidebar
-23:12:34.178 [main] INFO  - Opened PIM
-23:12:35.006 [main] INFO  - Clicked Add Employee option
-23:12:35.508 [main] INFO  - Opened Add Employee
-23:12:35.651 [main] INFO  - Firstname Provided
-23:12:35.778 [main] INFO  - Lastname Provided
-23:12:35.952 [main] INFO  - Employee ID Provided
-23:12:39.012 [main] INFO  - Image Provided
-23:12:43.730 [main] INFO  - Message Shown: Success
-Successfully Saved
-23:20:03.750 [main] INFO  - Loggin In...
-23:20:03.822 [main] INFO  - URL is opened.
-23:20:05.748 [main] INFO  - Login page is visible.
-23:20:05.881 [main] INFO  - Entered Username.
-23:20:06.051 [main] INFO  - Entered Password.
-23:20:06.173 [main] INFO  - Clicked Submit button.
-23:21:18.488 [main] INFO  - Loggin In...
-23:21:18.532 [main] INFO  - URL is opened.
-23:23:16.017 [main] INFO  - Loggin In...
-23:23:16.063 [main] INFO  - URL is opened.
-23:23:16.931 [main] INFO  - Login page is visible.
-23:23:17.047 [main] INFO  - Entered Username.
-23:23:17.296 [main] INFO  - Entered Password.
-23:23:22.322 [main] INFO  - Clicked Submit button.
-23:23:23.026 [main] INFO  - Checked if entered Dashboard
-23:23:23.069 [main] INFO  - Dashboard is visible
-23:23:27.036 [main] INFO  - Clicked PIM option from Sidebar
-23:23:27.561 [main] INFO  - Opened PIM
-23:23:28.515 [main] INFO  - Clicked Add Employee option
-23:23:29.011 [main] INFO  - Opened Add Employee
-23:23:29.134 [main] INFO  - Firstname Provided
-23:23:29.282 [main] INFO  - Lastname Provided
-23:23:29.460 [main] INFO  - Employee ID Provided
-23:23:32.526 [main] INFO  - Image Provided
-23:23:37.409 [main] INFO  - Message Shown: Success
-Successfully Saved
+14:34:48.284 [main] INFO  - Nationality Selected
+14:34:48.494 [main] INFO  - DOB Selected
+14:34:48.558 [main] INFO  - Gender Selected
+14:34:54.712 [main] INFO  - Details Saved!
